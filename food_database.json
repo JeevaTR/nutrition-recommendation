@@ -30,5 +30,94 @@
     "Lentils": {
         "nutrients": ["Iron", "Protein", "Fiber"],
         "description": "Plant-based protein source rich in iron and fiber."
+    },
+     {
+    "Avocados": {
+        "nutrients": ["Healthy Fats", "Potassium", "Vitamin E"],
+        "description": "Creamy fruit loaded with heart-healthy monounsaturated fats, great for skin and overall wellness."
+    },
+    "Chia Seeds": {
+        "nutrients": ["Omega-3 Fatty Acids", "Fiber", "Protein"],
+        "description": "Tiny seeds packed with fiber and omega-3s, excellent for digestion and heart health."
+    },
+    "Greek Yogurt": {
+        "nutrients": ["Protein", "Calcium", "Probiotics"],
+        "description": "Thick, creamy yogurt full of protein and probiotics to support gut health and muscle recovery."
+    },
+    "Broccoli": {
+        "nutrients": ["Vitamin C", "Vitamin K", "Fiber"],
+        "description": "Cruciferous vegetable rich in vitamins and fiber, beneficial for immune support and digestion."
+    },
+    "Quinoa": {
+        "nutrients": ["Protein", "Fiber", "Magnesium"],
+        "description": "Complete plant-based protein and high-fiber grain, ideal for vegetarians and those seeking a gluten-free alternative."
+    },
+    "Tomatoes": {
+        "nutrients": ["Vitamin C", "Potassium", "Antioxidants (Lycopene)"],
+        "description": "Sweet and tangy fruit loaded with antioxidants and nutrients beneficial for skin and heart health."
+    },
+    "Eggs": {
+        "nutrients": ["Protein", "Vitamin B12", "Selenium"],
+        "description": "High-quality protein source with essential vitamins and minerals, perfect for muscle repair and immune function."
+    },
+    "Kale": {
+        "nutrients": ["Vitamin A", "Vitamin K", "Antioxidants"],
+        "description": "Dark leafy green high in vitamins and antioxidants, great for bone health and detoxifying the body."
+    },
+    "Oats": {
+        "nutrients": ["Fiber", "Iron", "Magnesium"],
+        "description": "Whole grain that’s high in fiber, helps stabilize blood sugar, and provides long-lasting energy."
+    },
+    "Carrots": {
+        "nutrients": ["Vitamin A", "Beta-Carotene", "Fiber"],
+        "description": "Crunchy root vegetable rich in beta-carotene, ideal for eye health and immune support."
+    },
+    "Cucumber": {
+        "nutrients": ["Water", "Vitamin K", "Potassium"],
+        "description": "Hydrating vegetable high in water content, perfect for refreshing snacks and skin health."
+    },
+    "Pomegranate": {
+        "nutrients": ["Antioxidants", "Vitamin C", "Fiber"],
+        "description": "Juicy fruit packed with antioxidants and immune-boosting properties, great for heart health."
+    },
+    "Mango": {
+        "nutrients": ["Vitamin C", "Vitamin A", "Fiber"],
+        "description": "Tropical fruit rich in vitamins and fiber, boosting immune function and digestive health."
+    },
+    "Chicken Breast": {
+        "nutrients": ["Protein", "Vitamin B6", "Niacin"],
+        "description": "Lean protein source that supports muscle growth, ideal for post-workout meals."
+    },
+    "Sweet Peppers (Bell Peppers)": {
+        "nutrients": ["Vitamin C", "Vitamin A", "Antioxidants"],
+        "description": "Colorful and crunchy, bell peppers are high in vitamins and antioxidants, enhancing immune health."
+    },
+    "Pumpkin Seeds": {
+        "nutrients": ["Magnesium", "Zinc", "Protein"],
+        "description": "Nutrient-dense seeds packed with magnesium, protein, and zinc, excellent for heart health and boosting immunity."
+    },
+    "Hummus": {
+        "nutrients": ["Protein", "Fiber", "Healthy Fats"],
+        "description": "Creamy dip made from chickpeas, high in fiber and protein, great for snacks and digestion."
+    },
+    "Apples": {
+        "nutrients": ["Fiber", "Vitamin C", "Potassium"],
+        "description": "Crunchy fruit rich in fiber and vitamin C, perfect for maintaining digestive health and boosting immunity."
+    },
+    "Coconut": {
+        "nutrients": ["Healthy Fats", "Fiber", "Potassium"],
+        "description": "Tropical fruit that provides healthy fats and fiber, good for skin hydration and heart health."
+    },
+    "Tofu": {
+        "nutrients": ["Protein", "Iron", "Calcium"],
+        "description": "Versatile plant-based protein made from soybeans, ideal for vegetarians and vegans looking for a protein source."
+    },
+    "Cabbage": {
+        "nutrients": ["Vitamin C", "Fiber", "Antioxidants"],
+        "description": "Cruciferous vegetable rich in fiber and vitamin C, supports digestion and detoxification."
+    },
+    "Peas": {
+        "nutrients": ["Protein", "Fiber", "Vitamin A"],
+        "description": "Green legumes high in protein and fiber, promoting muscle health and digestive function."
     }
-} 
+}
