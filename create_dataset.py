@@ -29,7 +29,29 @@ foods = {
     "Avocado": ["Healthy Fats", "Potassium", "Vitamin K"],
     "Brazil Nuts": ["Selenium", "Magnesium", "Zinc"],
     "Sardines": ["Omega-3", "Calcium", "Vitamin D"],
-    "Kale": ["Vitamin K", "Iron", "Calcium"]
+    "Kale": ["Vitamin K", "Iron", "Calcium"],
+    "Avocados": ["Healthy Fats", "Potassium", "Vitamin E"],
+    "Chia Seeds": ["Omega-3", "Fiber", "Protein"],
+    "Greek Yogurt": ["Protein", "Calcium", "Probiotics"],
+    "Broccoli": ["Vitamin C", "Vitamin K", "Fiber"],
+    "Quinoa": ["Protein", "Fiber", "Magnesium"],
+    "Tomatoes": ["Vitamin C", "Potassium", "Antioxidants (Lycopene)"],
+    "Eggs": ["Protein", "Vitamin B12", "Selenium"],
+    "Kale": ["Vitamin A", "Vitamin K", "Antioxidants"],
+    "Oats": ["Fiber", "Iron", "Magnesium"],
+    "Carrots": ["Vitamin A", "Beta-Carotene", "Fiber"],
+    "Cucumber": ["Water", "Vitamin K", "Potassium"],
+    "Pomegranate": ["Antioxidants", "Vitamin C", "Fiber"],
+    "Mango": ["Vitamin C", "Vitamin A", "Fiber"],
+    "Chicken Breast": ["Protein", "Vitamin B6", "Niacin"],
+    "Sweet Peppers (Bell Peppers)": ["Vitamin C", "Vitamin A", "Antioxidants"],
+    "Pumpkin Seeds": ["Magnesium", "Zinc", "Protein"],
+    "Hummus": ["Protein", "Fiber", "Healthy Fats"],
+    "Apples": ["Fiber", "Vitamin C", "Potassium"],
+    "Coconut": ["Healthy Fats", "Fiber", "Potassium"],
+    "Tofu": ["Protein", "Iron", "Calcium"],
+    "Cabbage": ["Vitamin C", "Fiber", "Antioxidants"],
+    "Peas": ["Protein", "Fiber", "Vitamin A"]
 }
 
 def generate_dataset(num_rows):
